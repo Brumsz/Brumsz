@@ -1,35 +1,57 @@
-# Olá, eu sou João Brum 👋
-### 🐍 Python Developer | Especialista em Automação com IA
+# Olá, eu sou João Victor Brum 👋
 
-Sou estudante de Ciência da Computação e desenvolvedor focado em criar soluções inteligentes. Meu foco principal é a linguagem **Python** aplicada à **Inteligência Artificial Generativa** e **Automação de Processos**, conectando o poder dos LLMs com fluxos de trabalho empresariais.
+### 💻 Desenvolvedor em Formação | Python · Java · JavaScript · Node.js | Ciência da Computação - UNIP
+
+Sou estudante de Ciência da Computação (5º semestre) apaixonado por construir coisas que funcionam de verdade. Trabalho com **back-end**, **automação de processos** e **IA aplicada** — e já entreguei projetos reais para clientes nacionais e internacionais. Estou sempre aprendendo, sempre construindo.
 
 ---
 
 ### 🚀 O que eu faço
 
-* 🤖 **Engenharia de IA com Python:** Desenvolvimento de agentes e assistentes virtuais robustos utilizando o ecossistema Python (**LangChain**, bibliotecas de IA).
-* ⚡ **Automação Avançada:** Orquestração de fluxos complexos integrando **n8n** e **Typebot** com scripts Python personalizados.
-* 💼 **Soluções de Negócio:** Criação de chatbots inteligentes para atendimento ao cliente (experiência internacional) e ferramentas de produtividade.
-* 🎓 **Aprendizado Contínuo:** Pesquisa constante em RAG (Retrieval-Augmented Generation) e arquitetura de software moderna.
+* 🔧 **Desenvolvimento Back-end:** Criação de APIs REST, integração de sistemas e lógica de negócio com **Python**, **Java** e **Node.js**.
+* 🤖 **Automação Inteligente:** Orquestração de fluxos complexos com **n8n** e **Typebot**, integrando APIs externas e scripts customizados.
+* 🧠 **IA Aplicada:** Desenvolvimento de agentes e assistentes com **LangChain**, **RAG** e APIs de LLMs (OpenAI, Gemini).
+* 📊 **Análise de Dados:** Exploração, limpeza e visualização de dados com **pandas** e **matplotlib**.
+* 💼 **Soluções para Clientes Reais:** Já desenvolvi e entreguei sistemas de atendimento automatizado via WhatsApp para clientes no Brasil e na Irlanda.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Linguagem Principal & Backend**
+**Linguagens**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**IA, Frameworks & Automação**
+**Back-end & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**IA & Automação**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 ![Typebot](https://img.shields.io/badge/Typebot-2563EB?style=for-the-badge&logo=probot&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Ferramentas & DevOps**
+**Dados & Banco**
+
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Ferramentas**
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -37,9 +59,11 @@ Sou estudante de Ciência da Computação e desenvolvedor focado em criar soluç
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **Smart Study Assistant** | Assistente de estudos avançado que utiliza Python e RAG para criar planos de aprendizado personalizados. | **Python**, LangChain |
-| **Enterprise Chatbot (Irlanda)** | Sistema de automação comercial via WhatsApp integrando APIs de IA com fluxos de negócio. | Typebot, n8n, **Python** |
-| **Tantâlo** | Integração e automação de processos para chat bot inteligente e automação de processos. | Automação, IA |
+| **[Smart Study Assistant](https://github.com/Brumsz)** | Assistente de estudos com pipeline RAG: ingestão de documentos, embeddings e planos de aprendizado personalizados. | Python · LangChain · PostgreSQL |
+| **[API REST — Back-end](https://github.com/Brumsz)** | API com endpoints CRUD completos, autenticação e conexão com banco de dados relacional. | Python · FastAPI · PostgreSQL |
+| **[Site Institucional — Lógus](https://github.com/Brumsz/Site_L-gus)** | Site institucional completo desenvolvido para empresa real, do layout à entrega. | TypeScript · HTML · CSS |
+| **[Enterprise Chatbot (Irlanda)](https://github.com/Brumsz)** | Sistema de atendimento automatizado via WhatsApp com lógica de negócio customizada para cliente internacional. | n8n · Typebot · Python |
+| **[Agente de IA com Python](https://github.com/Brumsz/Agente_de_IA_CursoAlura)** | Agente conversacional básico com Python e Google Gemini desenvolvido durante imersão Alura/Google. | Python · Gemini API |
 
 ---
 
@@ -52,12 +76,31 @@ Sou estudante de Ciência da Computação e desenvolvedor focado em criar soluç
 
 ---
 
+### 📚 Formação & Certificações
+
+- 🎓 **Bacharelado em Ciência da Computação** — UNIP Alphaville (2024–2027)
+- 📜 Carreira: Especialista em IA — Alura (2025)
+- 📜 Imersão de Agentes de IA com Python — Alura / Google (2025)
+- 📜 Python: Inteligência Artificial Aplicada — Alura (2025)
+- 📜 Imersão de Dados com Python — Alura (2025)
+- 📜 Programação Oracle — Java Fundamentals — SENAI (2025)
+- 📜 Python, POO e HTML/CSS — Curso em Vídeo (2024–2025)
+
+---
+
+### 📬 Onde me encontrar
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3obrumcosta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:joaovictorbrumcosta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
+---
+
+<div align="center">
+  <i>Aberto a oportunidades de estágio em desenvolvimento de software, back-end e dados. 🚀</i>
+</div>
