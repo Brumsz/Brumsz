@@ -1,8 +1,8 @@
 # Olá, eu sou João Victor Brum 👋
 
-### 💻 Desenvolvedor em Formação | Python · Java · JavaScript | Ciência da Computação - UNIP
+### 💻 Desenvolvedor em Formação | Python | Ciência da Computação - UNIP
 
-Sou estudante de Ciência da Computação (5º semestre) apaixonado por construir coisas que funcionam de verdade. Trabalho com **back-end**, **automação de processos** e **IA aplicada** — e já entreguei projetos reais para clientes nacionais e internacionais. Estou sempre aprendendo, sempre construindo.
+Sou estudante de Ciência da Computação (5º semestre) apaixonado por construir coisas que funcionam de verdade. Trabalho com **back-end**, **automação de processos** — e já entreguei projetos reais para clientes nacionais e internacionais. Estou sempre aprendendo, sempre construindo.
 
 ---
 
@@ -69,19 +69,6 @@ Sou estudante de Ciência da Computação (5º semestre) apaixonado por construi
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brumsz&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
 </div>
 
----
-
-### 📚 Formação & Certificações
-
-- 🎓 **Bacharelado em Ciência da Computação** — UNIP Alphaville (2024–2027)
-- 📜 Carreira: Especialista em IA — Alura (2025)
-- 📜 Imersão de Agentes de IA com Python — Alura / Google (2025)
-- 📜 Python: Inteligência Artificial Aplicada — Alura (2025)
-- 📜 Imersão de Dados com Python — Alura (2025)
-- 📜 Programação Oracle — Java Fundamentals — SENAI (2025)
-- 📜 Python, POO e HTML/CSS — Curso em Vídeo (2024–2025)
-
----
 
 ### 📬 Onde me encontrar
 
