@@ -49,7 +49,6 @@ Sou estudante de Ciência da Computação (5º semestre) apaixonado por construi
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Smart Study Assistant](https://github.com/Brumsz)** | Assistente de estudos com pipeline RAG: ingestão de documentos, embeddings e planos de aprendizado personalizados. | Python · LangChain · PostgreSQL |
 | **[API REST — Back-end](https://github.com/Brumsz)** | API com endpoints CRUD completos, autenticação e conexão com banco de dados relacional. | Python · FastAPI · PostgreSQL |
 | **[Site Institucional — Lógus](https://github.com/Brumsz/Site_L-gus)** | Site institucional completo desenvolvido para empresa real, do layout à entrega. | TypeScript · HTML · CSS |
 | **[Enterprise Chatbot (Irlanda)](https://github.com/Brumsz)** | Sistema de atendimento automatizado via WhatsApp com lógica de negócio customizada para cliente internacional. | n8n · Typebot · Python |
