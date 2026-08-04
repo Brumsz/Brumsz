@@ -1,82 +1,136 @@
-# Olá, eu sou João Victor Brum 👋
+<div align="center">
 
-### 💻 Desenvolvedor em Formação | Python | Ciência da Computação - UNIP
+# Olá, sou o João 👋
 
-Sou estudante de Ciência da Computação (5º semestre) apaixonado por construir coisas que funcionam de verdade. Trabalho com **back-end**, **automação de processos** — e já entreguei projetos reais para clientes nacionais e internacionais. Estou sempre aprendendo, sempre construindo.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%26+SQL;Automação+e+IA+aplicadas+a+problemas+reais;Construindo+APIs%2C+Bots+e+Sistemas+com+RAG;Sempre+aprendendo%2C+sempre+documentando" alt="Typing SVG" />
 
----
-
-### 🚀 O que eu faço
-
-* 🔧 **Desenvolvimento Back-end:** Criação de APIs REST, integração de sistemas e lógica de negócio com **Python**, **Java** e **Node.js**.
-* 🤖 **Automação Inteligente:** Orquestração de fluxos complexos com **n8n** e **Typebot**, integrando APIs externas e scripts customizados.
-* 🧠 **IA Aplicada:** Desenvolvimento de agentes e assistentes com **LangChain**, **RAG** e APIs de LLMs (OpenAI, Gemini).
-* 📊 **Análise de Dados:** Exploração, limpeza e visualização de dados com **pandas** e **matplotlib**.
-* 💼 **Soluções para Clientes Reais:** Já desenvolvi e entreguei sistemas de atendimento automatizado via WhatsApp para clientes no Brasil e na Irlanda.
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Sobre mim
 
-**Linguagens**
+Estudante de Ciência da Computação (6º semestre) com foco em **Backend**, construindo experiência prática como freelancer em **automação e IA** enquanto me preparo para minha primeira posição no mercado de tecnologia.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**IA & Automação**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![Typebot](https://img.shields.io/badge/Typebot-2563EB?style=for-the-badge&logo=probot&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**Dados & Banco**
-
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+Gosto de entender o **porquê** por trás de cada decisão de arquitetura — não só escrever código que funciona, mas código que faz sentido.
 
 ---
 
-### 🔭 Projetos em Destaque
+### 🔧 Experiência com projetos reais
 
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| **[API REST — Back-end](https://github.com/Brumsz)** | API com endpoints CRUD completos, autenticação e conexão com banco de dados relacional. | Python · FastAPI · PostgreSQL |
-| **[Site Institucional — Lógus](https://github.com/Brumsz/Site_L-gus)** | Site institucional completo desenvolvido para empresa real, do layout à entrega. | TypeScript · HTML · CSS |
-| **[Enterprise Chatbot (Irlanda)](https://github.com/Brumsz)** | Sistema de atendimento automatizado via WhatsApp com lógica de negócio customizada para cliente internacional. | n8n · Typebot · Python |
-| **[Agente de IA com Python](https://github.com/Brumsz/Agente_de_IA_CursoAlura)** | Agente conversacional básico com Python e Google Gemini desenvolvido durante imersão Alura/Google. | Python · Gemini API |
+- 🌐 Desenvolvi **APIs REST** com Flask e Django para projetos de portfólio
+- 🔐 Construí sistemas de **autenticação JWT/OAuth2** do zero, entendendo cada etapa do fluxo de segurança
+- 🤖 Entreguei um **chatbot para WhatsApp** integrado com IA generativa (Claude API), usando FastAPI e Evolution API
+- 🧠 Implementei sistemas com **RAG (Retrieval-Augmented Generation)** usando pgvector para busca semântica
+- ⚙️ Automatizei processos de negócio em uma startup usando **n8n**, incluindo captura de leads e integrações com Notion
+- 🗄️ Trabalhei com persistência de dados em **PostgreSQL, MongoDB e SQLAlchemy** em projetos de portfólio
+- ✅ Escrevi **testes automatizados com pytest** para garantir cobertura e confiabilidade do código
+- 📄 Documentei e organizei projetos no GitHub, priorizando clareza técnica e boas práticas
+
+---
+
+### 💡 Principais habilidades
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,django,postgres,mongodb,sqlite,git,github,docker,supabase,py" />
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT%20%2F%20OAuth2-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+</div>
+
+> **RAG • pgvector • Claude API • Evolution API** — stacks de IA aplicada que uso para construir agentes e sistemas de busca semântica em projetos reais de automação.
+
+---
+
+### 📚 Fundamentos
+
+Estruturas de dados, algoritmos, banco de dados e arquitetura de sistemas — construídos na graduação (UNIP) e aprofundados em cursos complementares (**Alura**, **SENAI**).
+
+---
+
+### 📌 Projetos em destaque
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Brumsz/Tantalo-AI-Assistant">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Brumsz&repo=Tantalo-AI-Assistant&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Brumsz/Projeto_Stylesync">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Brumsz&repo=Projeto_Stylesync&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Brumsz/sistema-agendamento-assincrono-2">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Brumsz&repo=sistema-agendamento-assincrono-2&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Brumsz/Alura-Space">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Brumsz&repo=Alura-Space&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brumsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brumsz&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Brumsz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brumsz&layout=compact&theme=tokyonight&hide_border=true" height="165em"/>
+
 </div>
 
-
-### 📬 Onde me encontrar
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3obrumcosta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joaovictorbrumcosta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brumsz&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
+### 📫 Vamos conversar
+
 <div align="center">
-  <i>Aberto a oportunidades de estágio em desenvolvimento de software, back-end e dados. 🚀</i>
+
+<a href="https://www.linkedin.com/in/joãobrumcosta/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:joaovictorbrumcosta@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+  <sub>Aberto a oportunidades de Backend, Dados e IA 🚀</sub>
 </div>
