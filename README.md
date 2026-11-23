@@ -121,7 +121,7 @@ Estudante de **Ciência da Computação** (6º semestre, UNIP), com foco em **Ba
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãobrumcosta)
+[![LinkedIn](https://img.shields.io/badge/-Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobrumcosta)
 [![Gmail](https://img.shields.io/badge/-Envie_um_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorbrumcosta@gmail.com)
 
 <br/>
